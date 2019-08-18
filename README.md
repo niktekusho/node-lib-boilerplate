@@ -6,7 +6,7 @@
 
 ## Installation
 
-**Note:** to use this library, you have to have installed [Node.js](https://nodejs.org/) and a console you can run commands into. The **minimum required version** of Node.js is: [8 - codename "Carbon"](https://github.com/nodejs/Release#release-schedule).
+**Note:** this library needs [Node.js](https://nodejs.org/) and a console you can type in commands (PowerShell on Windows, Terminal on macOS and your favorite terminal emulator on every other OS). The **minimum required version** of Node.js is: [8 - codename "Carbon"](https://github.com/nodejs/Release#release-schedule).
 
 In your console, run the following command:
 
@@ -22,7 +22,7 @@ $ yarn add lib-name
 
 ## Usage
 
-The library exports a ...
+The library exports a module/function/class.
 
 You can find usage examples in the [examples](examples/) directory.
 
@@ -32,4 +32,4 @@ You can find usage examples in the [examples](examples/) directory.
 
 ## Related
 
-<!-- -   [CLI application](https://github.com/niktekusho/mas-piano-validator-cli). -->
+<!-- -   [CLI application](https://github.com/niktekusho/lib-name-cli). -->
