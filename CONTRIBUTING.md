@@ -32,23 +32,36 @@ For any issue, there are fundamentally three ways you can contribute:
 When opening a new issue in the `niktekusho/lib-name` issue tracker, you should fill in a basic template (like the one below).
 
 ```markdown
-<!--
 Thank you for reporting an issue.
-
+<!--
 This issue tracker is for bugs and issues found within the project "lib-name".
+-->
 
+# What are you reporting?
+
+- [ ] a feature request
+- [ ] a library bug
+- [ ] the documentation is unclear
+- [ ] other (please explain below :wink:)
+
+# What is your configuration?
+
+<!--
 Please fill in as much of the template below as you're able.
 
 Node version: the output of `node -v`
 NPM/Yarn version: output of `npm -v` or `yarn -v`
 Platform: the output of `uname -a` (UNIX), or version and 32 or 64-bit (Windows) (output of `winver` is very much appreciated!)
+lib-name version: which version of this library are you using (take a look at your `package.json`)
 -->
 
 * **Node version**:
 * **NPM/Yarn version**:
 * **Platform**:
+* **lib-name version**:
 
-<!-- Enter your issue details below this comment. -->
+# Issue description
+<!-- Describe here your problem. -->
 ```
 
 You should follow the template to the best of your ability: do not worry if you cannot answer every detail, just fill in what you can.
